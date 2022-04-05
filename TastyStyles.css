@@ -105,7 +105,7 @@ table, th, td {
   }
 
   #content {
-      color: orange;
+      color: orangered;
       position: absolute;
       text-align: center;
       top: 600px;
