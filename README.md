@@ -1,2 +1,2 @@
 # odin-recipes
-https://prosperum.github.io/odin-recipes/
+https://Code-fabricator.github.io/odin-recipes/
