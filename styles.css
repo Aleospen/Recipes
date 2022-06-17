@@ -1,0 +1,70 @@
+body {
+    font-family: 'Nunito', sans-serif; margin: 0;
+    background-color:rgb(24, 22, 22);
+    color: goldenrod;
+/*
+    height: 100vh;
+    margin: 0;
+    background-image: url(file:///C:/Users/Dagon/Downloads/pexels-lisa-fotios-776538.jpg);
+    background-position: center;
+    background-size: cover;
+    */
+}
+
+header { background-color: rgb(24, 22, 22); margin: 0;  }
+
+#head_text{ text-align: center; color: goldenrod; padding-left: 6%}
+
+#underline { height: 4vw; padding-left: 37%; padding-right: 25%; color: white;}
+
+
+
+#transfer{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-image: url(file:///C:/Users/Dagon/Downloads/pexels-lisa-fotios-776538.jpg);
+    background-position: center;
+    background-size: cover; }
+
+#img_transfer{ height: 100vh;;  margin: 0; background-position: center; background-size: cover; }  
+
+
+
+#list { background-color: rgb(24, 22, 22); }
+
+#text_list {
+    color: goldenrod;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    padding-top: 3%;
+   
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 3vw;
+}
+
+.block {margin: 2vw; text-align: center;}
+
+.food {display: flex; flex-direction: row; border-radius: 40%; height: 25vh; width: 10vw; }
+
+.name_recipe {
+    color: goldenrod;
+    text-align: center;
+}
+
+.ingridients { color: goldenrod;  }
+
+#ending {text-align: center; padding-top: 1%;}
+
+#logo {
+    width: 23vw;
+    height: 19vh;
+}    
+
+#textLogo { text-align: center; }
